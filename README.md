@@ -39,5 +39,13 @@ The goal of this project is to familiarize with the Pytorch library by building 
    - Use pretrained models like VGG16 and AlexNet for transfer learning and fine-tune them on the MNIST dataset.
    - Compare the performance of these models with the CNN and Faster R-CNN models based on the same metrics (Accuracy, F1 Score, Loss, Training Time).
 
+### Part 3: Vision Transformers (ViT)
+
+Implement Vision Transformer (ViT)
+Vision Transformers (ViT), introduced by Dosovitskiy et al. in 2020, have revolutionized computer vision by achieving state-of-the-art performance in various tasks, including image classification.
+Follow the step-by-step guide from this tutorial to:
+Build a Vision Transformer model architecture from scratch.
+Apply the ViT model to the MNIST classification task.
+Compare its performance with other models (CNN, Faster R-CNN, VGG16, AlexNet) based on metrics like Accuracy, F1 Score, Loss, and Training Time.
 
 
